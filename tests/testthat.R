@@ -1,4 +1,4 @@
 library(testthat)
-library(test)
+library(QR-ADMM)
 
-test_check("test")
+test_check("QR-ADMM")

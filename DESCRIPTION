@@ -1,4 +1,4 @@
-Package: test
+Package: QR-ADMM
 Title: Testing package
 Version: 0.0.0.9000
 Authors@R: 
